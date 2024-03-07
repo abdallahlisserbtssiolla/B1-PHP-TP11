@@ -1,1 +1,21 @@
 TP – PHP et le web
+-------------------------------- 1- Préparation (VM Apache) --------------------------------
+
+
+-------------------------------- 2- Exercices --------------------------------
+
+
+
+-------------------Exercice 1 : Libellés des produits en promotion  -------------------
+
+-------------------Exercice 2 : Produits en promotion (trois tableaux)  -------------------
+
+-------------------Exercice 3 : Produits en promotion (tableau de chaînes de caractères au format CSV)  -------------------
+
+-------------------Exercice 4 : Produits en promotion (tableau de tableaux associatifs)  -------------------
+
+-------------------Exercice 5 : Navigation et rendu  -------------------
+
+
+
+
