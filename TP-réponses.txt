@@ -1,6 +1,8 @@
 TP – PHP et le web
 -------------------------------- 1- Préparation (VM Apache) --------------------------------
+- On vérifie si le service apache 2 est en fonction avec la commande systemctl status apache2:
 
+- 
 
 -------------------------------- 2- Exercices --------------------------------
 
