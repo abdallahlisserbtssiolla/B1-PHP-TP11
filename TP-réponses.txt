@@ -1,22 +1,18 @@
 TP – PHP et le web
 -------------------------------- 1- Préparation (VM Apache) --------------------------------
 - On vérifie si le service apache 2 est en fonction avec la commande systemctl status apache2:
+- On vérifie si php est bien installé en créant un fichier info.php qui sera stocké dans /var/www/html.
+- Pour créer un dossier, voici la commande: mkdir /var/www/html/sanaya/vues.
+- Mettre en place les autorisations pour le dossier qu'on vient de créer afin qu'on puisse, créer, modifier et voir les fichiers.
+- Créer le dossier PHP-Web: mkdir PHP-WEB puis se placer : cd PHP-WEB et enfin cloner le dépôt avec la commande suivante:
+git clone https://github.com/dev-HR/B1-PHP-TP.git
+- Pour copier tous les fichiers dans le dossier précédent vues, faire la commande suivante :
+cp ./[Nomdufichier.php] ../
+Voici le résultat:
 
-- 
-
--------------------------------- 2- Exercices --------------------------------
 
 
 
--------------------Exercice 1 : Libellés des produits en promotion  -------------------
-
--------------------Exercice 2 : Produits en promotion (trois tableaux)  -------------------
-
--------------------Exercice 3 : Produits en promotion (tableau de chaînes de caractères au format CSV)  -------------------
-
--------------------Exercice 4 : Produits en promotion (tableau de tableaux associatifs)  -------------------
-
--------------------Exercice 5 : Navigation et rendu  -------------------
 
 
 
